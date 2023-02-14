@@ -1,0 +1,16 @@
+***aMD_Descriptors***
+
+***This explains the parameters in the Excel sheet "aMD_parameters.xlsx" which was used for all aMD modeling and model validation***
+
+Descriptors x1 to x6 are the dynamic surface areas (DSA) and volumes (DV) of substrates and products, and the difference in substrate and product DSA and DV
+
+Descriptors x7 to x78 are ligand-specific, DFT-derived descriptors for substrates (including Boltzmann averaged [BA], max, min, and max-min values for each descriptor)
+
+Descriptors x79 to x102 are the residue-specific DSAs and DVs of FMN and active site residues
+
+Descriptors x103 to x578 are residue-specific descriptors (including the descriptor weighted by the number of MD frames represented by a structure [MD_wt], and the min, max, and max-min values)
+
+Descriptors x579 to x602 are ligand-specific, DFT-derived descriptors for substrates 
+
+
+

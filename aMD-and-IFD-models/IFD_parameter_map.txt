@@ -1,0 +1,18 @@
+***IFD_Descriptors***
+
+***This explains the parameters in the Excel sheet "IFD_parameters.xlsx" which was used for all IFD modeling and model validation***
+
+Descriptors x1 to x120 are residue-specific parameters from product-docked enzyme structures
+
+Descriptors x121 to x210 are residue-specific parameters from substrate-docked enzyme structures
+
+Descriptors x211 to x222 are docking-score (Schrodinger's G-Score) based parameters
+
+Descriptors x223 to x274 are dynamic descriptors for residues of product-docked enzyme structures, residues of substrate-docked enzyme structures, substrates, and products
+
+Descriptors x275 to x359 are ligand-specific descriptors for products 
+
+Descriptors x360 to x389 are ligand-specific descriptors for substrates
+
+
+
